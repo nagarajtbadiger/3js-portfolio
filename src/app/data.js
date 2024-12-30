@@ -45,6 +45,20 @@ export const projectsData = [
     date: "December 2024",
     demoLink: "https://tata-hitachi.vercel.app/",
   },
+  {
+    id: 5,
+    name: "Tata Hitachi",
+    description: "Tata Hitachi website on NextJS",
+    date: "December 2024",
+    demoLink: "https://contact-form-68490eyvf-nagarajtbadigers-projects.vercel.app/"
+  },
+  {
+    id: 6,
+    name: "Royal Enfield",
+    description: "Royal Enfield Dealer Locator",
+    date: "August 2024",
+    demoLink: "https://re-dealer-locator.vercel.app/"
+  }
 ];
 
 export const BtnList = [
