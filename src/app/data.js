@@ -38,6 +38,13 @@ export const projectsData = [
     date: "October 2024",
     demoLink: "https://cobra-chat.vercel.app/",
   },
+  {
+    id: 4,
+    name: "Tata Hitachi",
+    description: "Tata Hitachi website on NextJS",
+    date: "December 2024",
+    demoLink: "https://tata-hitachi.vercel.app/",
+  },
 ];
 
 export const BtnList = [
