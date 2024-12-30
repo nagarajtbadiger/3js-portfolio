@@ -47,9 +47,9 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "Tata Hitachi",
-    description: "Tata Hitachi website on NextJS",
-    date: "December 2024",
+    name: "Contact Form",
+    description: "Contact form sample",
+    date: "September 2024",
     demoLink: "https://contact-form-68490eyvf-nagarajtbadigers-projects.vercel.app/"
   },
   {
